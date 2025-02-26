@@ -10,6 +10,14 @@
 
 Simulated a password validation program in JavaScript using different imported modules. Also explored exporting functions to be implemented in other files. Learned about modules, packages, and gitignore.
 
+## Challenges
+
+Nagkaroon po ng error sa pag push, mga 1 hour yun lang ginagawa ko
+
+## Solution
+
+Generated new auth taken and started in a seperate repo
+
 ## References
 
 - CMSC 100 Week 4 Handout
