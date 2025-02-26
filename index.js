@@ -71,7 +71,7 @@ function addAccount(userInfo){
     return true;
 }
 
-export {addAccount};
+export {addAccount}; // export addFunction
 
 // test cases
 // console.log(generateUniqueID("John", "Doe")); // jdoe1234
